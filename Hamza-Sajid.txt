@@ -1,4 +1,4 @@
-Link to finished CodePen: 
+Link to finished CodePen: https://codepen.io/codepenlambda/full/ExXKxRa
 
 
     1. What is Semantic HTML? 
